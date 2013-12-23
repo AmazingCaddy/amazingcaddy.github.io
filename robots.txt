@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://AmazingCaddy.github.io/sitemap.xml 
+Sitemap: http://amazingcaddy.github.io/sitemap.xml 
